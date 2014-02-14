@@ -21,7 +21,6 @@ public class UserDetailsServiceImpl implements UserDetailsService {
     public UserDetails loadUserByUsername(String username)
             throws UsernameNotFoundException {
         forum.model.User user = userService.findByUsername(username);
-        System.out.println("User: " + user.getUsername());
 
         if (user == null) {
             throw new UsernameNotFoundException("User not found");
