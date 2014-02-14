@@ -141,15 +141,15 @@
         </script>
     </c:if>
 
-    <script type="text/javascript" src="/static/js/config/config.js"></script>
-    <script type="text/javascript" src="/static/js/models/post.js"></script>
-    <script type="text/javascript" src="/static/js/models/posts.js"></script>
-    <script type="text/javascript" src="/static/js/models/topic.js"></script>
-    <script type="text/javascript" src="/static/js/models/topics.js"></script>
-    <script type="text/javascript" src="/static/js/views/pagination.js"></script>
-    <script type="text/javascript" src="/static/js/views/topics.js"></script>
-    <script type="text/javascript" src="/static/js/views/newTopic.js"></script>
-    <script type="text/javascript" src="/static/js/views/topic.js"></script>
+    <script type="text/javascript" src="/static/cs/config/config.js"></script>
+    <script type="text/javascript" src="/static/cs/models/post.js"></script>
+    <script type="text/javascript" src="/static/cs/models/posts.js"></script>
+    <script type="text/javascript" src="/static/cs/models/topic.js"></script>
+    <script type="text/javascript" src="/static/cs/models/topics.js"></script>
+    <script type="text/javascript" src="/static/cs/views/pagination.js"></script>
+    <script type="text/javascript" src="/static/cs/views/topics.js"></script>
+    <script type="text/javascript" src="/static/cs/views/newTopic.js"></script>
+    <script type="text/javascript" src="/static/cs/views/topic.js"></script>
     <script type="text/javascript" src="/static/cs/app.js"></script>
 
 </body>
