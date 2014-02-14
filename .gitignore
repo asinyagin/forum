@@ -1,0 +1,5 @@
+.idea/
+target/
+*.iml
+src/main/webapp/static/cs/*/*.js
+src/main/webapp/static/cs/*.js
